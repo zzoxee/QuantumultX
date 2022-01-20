@@ -1,6 +1,4 @@
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/yaofan.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/头部.png)
 
 ## mini项目
 
